@@ -1,2 +1,4 @@
 # blink-thermometer
-With a attiny85 with a tree color led and a DS18B20
+With an attiny85 and
+tree coular led
+DS18B20
